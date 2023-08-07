@@ -1,5 +1,5 @@
 
-provides functions to interact with the MetaDefender API for scanning files and URLs for potential threats.
+# provides functions to interact with the MetaDefender API for scanning files and URLs for potential threats.
               
                
 -k or --api-key: The MetaDefender API key required for authentication. This argument allows users to specify their API key directly from the command line when running the script.
